@@ -23,12 +23,12 @@
   "author": "StanGirard",
   "license": "Apache License 2.0",
   "devDependencies": {
-    "electron": "^24.1.1",
-    "electron-builder": "^23.6.0"
+    "electron": "^24.8.5",
+    "electron-builder": "^24.13.3"
   },
   "dependencies": {
     "markdown-it": "^13.0.1",
     "markdown-it-sanitizer": "^0.4.3",
-    "openai": "^3.2.1"
+    "openai": "^4.40.1"
   }
 }
